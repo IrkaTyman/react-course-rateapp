@@ -1,0 +1,27 @@
+
+
+.sidebarHead{
+	border-bottom: 1px solid #BFC4CD;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.sidebarContent ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+		border-bottom: 1px solid #BFC4CD;
+}
+
+.sidebarContent li{
+	padding-left: 25%;
+	display: block;
+	display: flex;
+	justify-content: flex-start;
+}
+
+.sidebarContent img{
+	width:20px;
+	height: 15px;
+}
